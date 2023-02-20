@@ -1,0 +1,28 @@
+[
+
+    {
+        "relativePath" : "vdslpcloud/datasets/main/Eurovision/Countries_Editions_Songs.csv",
+        "outFileName" : "Countries_Editions_Songs.csv"
+    },
+    {
+        "relativePath" : "vdslpcloud/datasets/main/Eurovision/Countries.csv",
+        "outFileName" : "Countries.csv"
+    },
+    {
+        "relativePath" : "vdslpcloud/datasets/main/Eurovision/Odds_Rate_Table_2023.csv",
+        "outFileName" : "Odds_Rate_Table_2023.csv"
+    },
+    {
+        "relativePath" : "vdslpcloud/datasets/main/Eurovision/Polled_Eurovision_2022.csv",
+        "outFileName" : "Polled_Eurovision_2022.csv"
+    },
+    {
+        "relativePath" : "vdslpcloud/datasets/main/Eurovision/Tweets_Count_With_Eurovision_Hashtag.csv",
+        "outFileName" : "Tweets_Count_With_Eurovision_Hashtag.csv"
+    },
+    {
+        "relativePath" : "vdslpcloud/datasets/main/Eurovision/Votes_From_Scoreboard.csv",
+        "outFileName" : "Votes_From_Scoreboard.csv"
+    }
+    
+]
